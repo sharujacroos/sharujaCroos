@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharujacroos&label=Profile%20views&color=0e75b6&style=flat" alt="sharujacroos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharujacroos" alt="sharujacroos" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science & Technology**
 
 - 👯 I’m looking to collaborate on **innovative software development projects**
